@@ -1,18 +1,15 @@
-import { vi } from 'vitest'
+import '@testing-library/jest-dom'
 
-// Mock vue-router with partial mocking
-vi.mock('vue-router', async (importOriginal) => {
-  const actual = await importOriginal() as any
-  return {
-    ...actual,
-    useRouter: () => ({
-      push: vi.fn(),
-      go: vi.fn(),
-      back: vi.fn(),
-    }),
-    useRoute: () => ({
-      params: {},
-      query: {},
-    }),
-  }
-})
+// Mock vue-router with Jest
+jest.mock('vue-router', () => ({
+  ...jest.requireActual('vue-router'),
+  useRouter: () => ({
+    push: jest.fn(),
+    go: jest.fn(),
+    back: jest.fn(),
+  }),
+  useRoute: () => ({
+    params: {},
+    query: {},
+  }),
+}));

@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest'
+import { describe, it, expect } from '@jest/globals'
 import { mount } from '@vue/test-utils'
 import PaymentDetail from '@/views/PaymentDetail.vue'
 import StatusBadge from '@/components/common/StatusBadge.vue'
