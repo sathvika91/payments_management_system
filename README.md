@@ -120,12 +120,11 @@ http://localhost:5173
 
 ```md
 
-
-/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.33.45 PM.png
-/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.34.42 PM.png 
-/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.34.15 PM.png 
-/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.36.02 PM.png
-/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.36.15 PM.png
+![](/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.33.45 PM.png)
+![](/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.34.42 PM.png)
+![](/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.34.15 PM.png)
+![](/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.36.02 PM.png)
+![](/Users/satvikam/Desktop/Screenshot\ 2026-02-07\ at\ 8.36.15 PM.png)
 
 
 ```
