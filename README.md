@@ -1,4 +1,4 @@
-# 💳 Payments Management System (Vue 3 + TypeScript)
+# Payments Management System 
 
 ---
 
