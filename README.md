@@ -24,7 +24,6 @@ A fintech startup requires a **secure internal system** to manage and monitor al
 * **TypeScript** – Type safety and better code maintainability
 * **Vite** – Fast development build tool
 * **Vue Router** – Client‑side routing
-* **@vue/test-utils** – Vue component testing utilities
 * **HTML / CSS** – UI structure and styling
 
 ---
@@ -68,7 +67,7 @@ payments-management/
 
 
 
-## ⚙️ Setup & Run Instructions
+## Setup & Run Instructions
 
 ### 1️⃣ Prerequisites
 
